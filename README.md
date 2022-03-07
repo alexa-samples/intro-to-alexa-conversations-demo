@@ -1,4 +1,7 @@
-﻿# Intro to Alexa Conversations 
+﻿# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
+# Intro to Alexa Conversations 
 
 This folder contains the nodejs lambda function code for the Intro to Alexa Conversations hosted template available in the Alexa Developer Portal.
 
